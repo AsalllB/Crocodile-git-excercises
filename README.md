@@ -1,4 +1,4 @@
-# Crocodile-git-excercises
+# Crocodile-git-excercises 🐊
 ## Hey, this is Cro.zone team of Cro.Code.Ile Boot Camp! 😉❤️
 
 We made this project to learn and practice **Github** which is so essential for coders. This is our very *first experience* on Github and we are glad to use this cool tool in our long journey :D 
